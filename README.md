@@ -1,2 +1,2 @@
 # uplift-python-resources-aditya
-## Aditya Upadhye | Participant
+Aditya Upadhye | Participant
